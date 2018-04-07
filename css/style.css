@@ -1,0 +1,39 @@
+#card{
+margin-left:245px;
+width:500px;
+}
+#title{
+  display:none;
+}
+#liltitle{
+  display:none;
+}
+.fantasy{
+  font-family: fantasy;
+}
+.span{
+  color:#77f442;
+}
+#learn{
+  background-color: #77f442;
+  color:black;
+  display: none;
+}
+.black{
+  background-color:#000000;
+}
+.blue{
+  background-color:#173dd6;
+}
+.red{
+  color:#ed042f;
+}
+.diamond{
+  color:#04e5ed;
+}
+.gray{
+  color:#9fa5a5;
+}
+.white{
+  color:#fff;
+}
